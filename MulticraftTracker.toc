@@ -1,0 +1,11 @@
+## Interface: 100000
+## DefaultState: enabled
+
+## Title: MulticraftTracker
+## Notes: Gathers data from multicraftprocs
+## Author: genju
+## SavedVariables: MulticraftTrackerDB
+## Version: 1.0
+
+MulticraftTracker.lua
+MulticraftTracker.xml
